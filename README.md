@@ -1,5 +1,5 @@
-<div>
-<h1>👋 Olá sou William, mas podem me chamar de Will !</h1> 
+<div align="center">
+<h1> Olá sou William, mas podem me chamar de Will ! 👋 </h1> 
 </div>
 <br>
 <br>
