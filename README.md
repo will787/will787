@@ -1,15 +1,39 @@
-<div align="center">
-<h1> Olá sou William, mas podem me chamar de Will ! 👋 </h1> 
+### Olá eu sou William Vieira 👋
+
+<p>Sou jovem entusiasta na área tech, tive um bom desenvolvimento ao início de 2023, procuro continuar em me desenvolver, em algumas stacks em específico atualmente, estou começando meu processo de estuda 42SP, onde estarei procurando me consolidar com a base de desenvolvimento de software.</p>
+<br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-v1/)
+[![Medium](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wvmwill)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/will787/)
+
+
+![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=will787&show_icons=true&theme=tokyonight)
+
+
+## Tecnologias que venho aprendendo
+
+<div style="inline_block"><br/>
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div></br>
+
+
+<div style="inline_block"><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will787&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will787&layout=compact)
+</div><br>
+
+## Post's ⭐:
+
+    <p>Vamos juntos nessa, irei começar a colocar alguns posts sobre meu dia a dia, deixaria aqui atualizado com post do medium e linkedin. </p>
+    
+
+    ... 
+<div>
+
 </div>
- 
-- 👀 Bom, estou interessado em duas areas de tecnologia em específico, sendo elas Desenvolvimento em Back-End e também Análise de Dados.
-
-- 🌱 Atualmente venho aprendendo, sobre algumas linguagens e também fazendo uma imersão cada vez mais, uma linguagem que venho estudando bastante no momento vem sendo Java com Spring Boot, também tenho em me desenvolver mais relacionado ao aprendizado de Machine Learning, com Análise de dados com python, power BI, Excel. Já tive uma experiência relacionada a análise de dados, mas agora venho focando em Java, sendo o que venho estudando com mais frequência.
-
-- 💞️ Eu procuro sempre aprender junto a um ambiente que tenha muitos desafios para serem solucionados, tanto em tempo de aprendizado quanto ao quesito profissional. gosto bastante das duas aréas por estarem relacionadas
-
-- a o modelo de negócios, hoje sendo o meio mais importante a internet, então estou a procura de me desenvolver cada vez mais.
-- 📫 Se tiver alguma indicação, ou alguma dica eu estarei aberto a novas conversas !
-+ vieira_william@outlook.com - Meu E-mail  📥
-+ https://www.linkedin.com/in/william-v1/ 🚹
-
