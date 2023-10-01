@@ -30,7 +30,8 @@
 
 ## Post's ⭐:
 
-    <p>Vamos juntos nessa, irei começar a colocar alguns posts sobre meu dia a dia, deixaria aqui atualizado com post do medium e linkedin. </p>
+    <p>Vamos juntos nessa, irei começar a colocar alguns posts sobre meu dia a dia, 
+    irei manter aqui atualizado com post do medium e linkedin. </p>
     
 
     ... 
