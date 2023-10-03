@@ -1,6 +1,6 @@
 ### Olá eu sou William Vieira 👋
 
-<p>Sou jovem entusiasta na área tech, tive um bom desenvolvimento ao início de 2023, procuro continuar em me desenvolver, em algumas stacks em específico atualmente, estou começando meu processo de estuda 42SP, onde estarei procurando me consolidar com a base de desenvolvimento de software.</p>
+<p>Sou jovem um entusiasta na área tech, tive um bom desenvolvimento ao início de 2023 eu procuro continuar me desenvolvendo, em algumas stacks em específico atualmente estou começando meu processo de estudo na 42SP, onde estarei procurando me consolidando com a base de desenvolvimento de software em C.</p>
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-v1/)
