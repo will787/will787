@@ -28,5 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will787&layout=compact)
 </div><br>
 
-
+## Post's 👽: 
+<p>Vamos juntos nessa, irei começar a colocar alguns posts sobre meu dia a dia, irei manter aqui atualizado com post do medium e linkedin. </p> 
+... <div>
 </div>
