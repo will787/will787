@@ -30,6 +30,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will787&layout=compact)
 </div><br>
 
+
+<br><br>
+<div style="inline-block" align="center">
+<img align="center" alt="Piscine" src="piscine2.png">
+<img align="center" alt="LIBFT" src="https://game.42sp.org.br/static/assets/achievements/libftm.png">
+<img align="center" alt="GET_NEXT_LINE" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png">
+<img align="center" alt="FT_PRINTF" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png">
+</div>
+
+<br>
+
 ## Post's 👽: 
 <p>Vamos juntos nessa, irei começar a colocar alguns posts sobre meu dia a dia, irei manter aqui atualizado com post do medium e linkedin. </p> 
 ... <div>
