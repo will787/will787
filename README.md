@@ -33,7 +33,7 @@
 
 <br><br>
 <div style="inline-block" align="center">
-<img align="center" alt="Piscine" src="piscine2.png">
+<img align="center" alt="Piscine" src="image/piscine2.png">
 <img align="center" alt="LIBFT" src="https://game.42sp.org.br/static/assets/achievements/libftm.png">
 <img align="center" alt="GET_NEXT_LINE" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png">
 <img align="center" alt="FT_PRINTF" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png">
