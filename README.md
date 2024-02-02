@@ -37,6 +37,7 @@
 <img align="center" alt="LIBFT" src="https://game.42sp.org.br/static/assets/achievements/libftm.png">
 <img align="center" alt="GET_NEXT_LINE" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png">
 <img align="center" alt="FT_PRINTF" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png">
+<img align="center" alt="BORN2BEROOT" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png">
 </div>
 
 <br>
