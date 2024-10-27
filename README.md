@@ -20,6 +20,7 @@
     <img align="center" alt="NumPy" src="https://img.shields.io/badge/NumPy-003366?style=for-the-badge&logo=numpy&logoColor=white">
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
     <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-FF7F0E?style=for-the-badge&logo=matplotlib&logoColor=white">
+    <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 
 
