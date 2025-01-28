@@ -1,6 +1,6 @@
 ### Olá eu sou William Vieira 👋
 
-<p>Sejam muito bem vindos, o perfil tá bagunçado mas esse talvez seja um pouco da minha trajetória em códigos, o meu passa tempo e também minha forma de aprender.</p>
+<p>Enthusiast as begining  Applied Scientist, my goals to understand the process of stream, the different ways, i love it technologies, research to apply and solve problems.</p>
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-v1/)
