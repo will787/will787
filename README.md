@@ -35,11 +35,3 @@
 <br><br>
 <div style="inline-block" align="center">
 <img align="center" alt="Piscine" src="image/piscine2.png">
-</div>
-
-<br>
-
-## Post's 👽: 
-<p>Vamos juntos nessa, irei começar a colocar alguns posts sobre meu dia a dia, irei manter aqui atualizado com post do medium e linkedin. </p> 
-... <div>
-</div>
