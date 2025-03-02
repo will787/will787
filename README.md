@@ -1,4 +1,4 @@
-### Olá eu sou William Vieira 👋
+### Hello, its one pleasure you here, im William look about my profile 👋
 
 <p>Enthusiast as begining  Applied Scientist, my goals to understand the process of stream, the different ways, i love it technologies, research to apply and solve problems.</p>
 <br>
