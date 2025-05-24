@@ -11,7 +11,7 @@
 ![Will GitHub stats](https://github-readme-stats.vercel.app/api?username=will787&show_icons=true&theme=tokyonight)
 
 
-## Tecnologias que venho aprendendo
+## Technologies i`ve benning learning, during my path career and of course, learning new skills like as Sckit Learning, Quant Finance, Econometrics libs etc.
 
 <div style="inline_block"><br/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
